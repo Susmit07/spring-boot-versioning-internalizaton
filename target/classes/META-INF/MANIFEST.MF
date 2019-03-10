@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sircarsmac
+Build-Jdk: 10.0.1
+Implementation-Title: spring-boot-2-rest-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.springboot.rest.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-2-rest-service-versioning
+Created-By: Maven Integration for Eclipse
+
